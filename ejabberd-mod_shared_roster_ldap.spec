@@ -2,12 +2,12 @@
 
 Summary:	LDAP-based shared roster module for ejabberd server
 Name:		ejabberd-%{pname}
-Version:	0.5.2
+Version:	0.5.3
 Release:	1
 License:	GPL
 Group:		Applications/Communications
-Source0:	https://alioth.debian.org/frs/download.php/3343/%{pname}-%{version}.tgz
-# Source0-md5:	df03ff5c61067fd82eb18c219e05287d
+Source0:	https://alioth.debian.org/frs/download.php/3354/%{pname}-%{version}.tgz
+# Source0-md5:	30237b940db6984afe4f212648f41550
 URL:		http://www.ejabberd.im/mod_shared_roster_ldap
 BuildRequires:	ejabberd
 BuildRequires:	erlang >= R9C
